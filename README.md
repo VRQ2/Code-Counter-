@@ -1,4 +1,4 @@
-#Code Counter
+# Code Counter
 
 A fast, asynchronous Node.js utility to count non-empty lines of code across various programming languages in a directory.
 
